@@ -1,0 +1,55 @@
+body
+{
+    font-family: Agency FB;
+}
+.heading
+{
+  width: 100%;
+  font-size: 23px;
+  margin: 0px;
+  box-shadow:5px 5px 5px darkcyan;
+}
+.headingDiv
+{
+  background: lightgreen ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px darkcyan;
+  padding: 10px;
+  float: none;
+}
+.headingDiv2
+{
+  font-size: 18px;
+}
+.resultObject
+{
+  box-shadow:5px 5px 5px darkcyan;
+  font-size: 20px;
+}
+
+.resultObject span
+{
+    white-space: pre-line;
+}
+
+.copyright
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgreen;
+    line-height: 3;
+    text-align: center;
+    box-shadow:5px 5px 5px darkcyan;
+    font-size: 18px;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px darkcyan;
+    margin-top: 160px;
+}
